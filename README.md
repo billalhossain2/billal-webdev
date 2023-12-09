@@ -1,4 +1,4 @@
-![Billal Hossain's Banner](./header-img/github-header-image.png)
+![Billal Hossain's Banner](./header-img/github-banner-with-logo.png)
 ### Current Overview
 - 🔭 I’m currently working on: Building scalable and dynamic web applications with the MERN stack.
 
