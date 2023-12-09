@@ -1,4 +1,3 @@
-### Hi, I am Billal Hossain
 ![Billal Hossain's Banner](./header-img/github-header-image.png)
 ### Current Overview
 - 🔭 I’m currently working on: Building scalable and dynamic web applications with the MERN stack.
@@ -30,7 +29,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=billal-webdev&theme=tokyonight)
 
 
-![Billal Hossain's GitHub stats](https://github-readme-stats.vercel.app/api?username=billal-webdev&show_icons=true&theme=tokyonight)
+[![Billal Hossain's GitHub stats](https://github-readme-stats.vercel.app/api?username=billal-webdev&show_icons=true&theme=tokyonight)](https://github.com/billal-webdev)
 
 ### Connect with me
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
