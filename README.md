@@ -1,3 +1,5 @@
+![Billal Hossain's Banner](./header-img/github-header-image.png)
+
 ### Hi there, I am Billal Hossain 👋
 
 <!--
