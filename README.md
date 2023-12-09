@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=billal-webdev&theme=tokyonight)](https://git.io/streak-stats)
+
+## Technology That I Know
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,mongodb,expressjs,html,css,tailwind,bootstrap,materialui" />
+  </a>
+</p>
